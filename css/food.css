@@ -1,0 +1,60 @@
+.con1 {
+    border: 2px solid red;
+    background-color: burlywood;
+    margin: 4px 0px;
+    padding: 23px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+header {
+    color: aliceblue;
+    height: 8%;
+    width: 100%;
+    background-color: rgb(72, 48, 72);
+}
+
+.btn {
+    margin-right: 12px;
+}
+
+header h1 {
+
+    text-align: center;
+    font-family: 'Tangerine', 'serif';
+    font-size: 44px;
+}
+
+.image1 img {
+    height: 25%;
+    width: 20%;
+}
+
+
+
+.fom-log {
+    max-width: 50%;
+    margin: auto;
+    /* font-family: 'Tangerine', serif; */
+    /* font-size: 44px; */
+    background-color: aqua;
+    padding: 4rem;
+    border-radius: 1rem;
+}
+
+.logo {
+    height: 5.5%;
+    border: 2px solid red;
+    border-radius: 35%;
+}
+.text-colos {
+  color: wheat;  
+
+}
+.cerkel-r {
+    border-radius:100px;
+}
+.back_colos {
+    background-color: black;
+}
